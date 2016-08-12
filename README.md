@@ -11,9 +11,9 @@ You will create a report to answer the questions. Given the nature of the series
 
 Results:
 
-:cyclone: First part: [PDF]()
+:cyclone: First part: [PDF](https://github.com/gonzalezjuand/StatsInference-Assignment/blob/master/part2.pdf)
 
-:cyclone: Second part: [PDF]()
+:cyclone: Second part: [PDF](https://github.com/gonzalezjuand/StatsInference-Assignment/blob/master/part2.pdf)
 
 ## A simulation exercise
 
